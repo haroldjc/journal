@@ -1,0 +1,246 @@
+html .mceContentBody{
+	max-width: 705px;
+}
+
+@font-face {
+	font-family: 'American-Journal';
+	src:url('css/fonts/American-Journal.eot');
+	src:url('css/fonts/American-Journal.eot?#iefix') format('embedded-opentype'),
+		url('css/fonts/American-Journal.woff') format('woff'),
+		url('css/fonts/American-Journal.ttf') format('truetype'),
+		url('css/fonts/American-Journal.svg#American-Journal') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+* {
+	color: #666;
+	font-size: 16px;
+	font-family: 'Merriweather', serif;
+}
+
+p ,
+li ,
+form {
+	font-family: 'Merriweather', serif;
+	font-weight: 300;
+	line-height: 1.5em;
+	margin-bottom: 1em;
+}
+
+a:link,
+a:visited {
+	color: #666;
+	text-decoration: none;
+}
+
+img,
+img[class*="wp-image-"] ,
+img.size-full {
+	width: 100%;
+	height: auto;
+}
+
+strong {
+	font-weight: bold;
+}
+
+em,
+i {
+	font-style: italic;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: bold;
+	line-height: 1em;
+	margin-bottom: 15px;
+}
+
+h1 {
+	color: #333;
+	font-size: 2.625em;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1.563em;
+}
+
+h4 {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 1.250em;
+}
+
+h5 {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 1em;
+}
+
+h6 {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 1em;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+
+/* Blockquotes */
+blockquote {
+	color: #333;
+	margin: 0 3.125em 1em 3.125em;
+	position: relative;
+}
+
+blockquote p {
+	color: #333;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 1.250em;
+	font-weight: bold;
+	line-height: 1.1em;
+}
+
+blockquote:before {
+	color: #ccc;
+	content: "\22";
+	font-family: 'American-Journal';
+	font-size: 1.5em;
+	position: absolute;
+		left: -1.5em;
+}
+
+/* Lists */
+li {
+	line-height: 1.6em;
+}
+
+ul,
+ol {
+	margin: 1em 0 1em 4em;
+}
+
+ul {
+	list-style: square;
+}
+
+ul ul,
+ol ol {
+	margin-left: 25px;
+}
+
+ol {
+	list-style-type: decimal;
+}
+
+ol ol {
+	list-style: upper-alpha;
+}
+
+ol ol ol {
+	list-style: lower-roman;
+}
+
+ol ol ol ol {
+	list-style: lower-alpha;
+}
+
+ul ul,
+ol ol,
+ul ol,
+ol ul {
+	margin-bottom: 0;
+}
+
+dl {
+	margin: 0 12px;
+}
+
+dl.gallery-item {
+	margin: 0;
+}
+
+dt {
+	font-weight: bold;
+}
+dd {
+	margin-bottom: 24px;
+}
+
+/* WordPress Generated Clases */
+.aligncenter,
+div.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+}
+
+img.alignright {
+	margin: 5px 0 4px 10px;
+}
+
+img.alignleft {
+	margin: 5px 10px 4px 0;
+}
+
+.wp-caption {
+	background-color: #eee;
+	border: 1px solid #ddd;
+	padding: 10px 5px;
+	text-align: center;
+}
+
+.wp-caption.alignright {
+	margin: 5px 0 4px 10px;
+}
+
+.wp-caption.alignleft {
+	margin: 5px 10px 4px 0;
+}
+
+.wp-caption img {
+	border: 0 none;
+	height: auto;
+	margin: 0;
+	max-width: 100%;
+	padding: 0;
+}
+
+.wp-caption p.wp-caption-text,
+.gallery-caption {
+	display: block;
+	font-size: 11px;
+	line-height: 1.5em;
+	margin: 0 0 0 ;
+	padding: 5px;
+}
+
+dd.gallery-caption {
+	padding: 1em 0 0;
+	width: 85%;
+}
+
+.wp-caption .wp-caption-text {
+	padding: 10px 0 5px 40px;
+	position: relative;
+}
+
+.gallery .gallery-item {
+	margin-bottom: 12px;
+}

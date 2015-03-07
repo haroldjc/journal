@@ -1,0 +1,321 @@
+/**
+ *
+ * Blakzr Panel CSS
+ * Version: 1.0
+ * Author: Harold Coronado
+ * Author URI: http://blakzr.com
+ *
+**/
+
+#blakzr_warp {
+	max-width: 830px;
+	margin: 16px 0 15px 0;
+}
+
+#top-message{
+	display: none;
+}
+
+#blakzr_warp .panelcontent{
+	max-width: 828px;
+	padding: 0 0 15px 0;
+	overflow: hidden;
+}
+
+.innerbox{
+	
+}
+
+#options-table > tbody > tr{
+	display: none;
+}
+
+#options-table > tbody > tr[data-id="0"]{
+	display: block;
+}
+
+.panelcontent .option h3 + p{
+	color: #666;
+}
+
+.panelcontent .option label{
+	display: inline-block;
+	margin-left: 10px;
+	color: #999;
+}
+
+.panelcontent textarea{
+	width: 99%;
+	max-width: 99%;
+	height: 100px;
+}
+
+.panelcontent .option select{
+	min-width: 135px;
+}
+
+.option .colorinput{
+	display: inline-block;
+}
+
+.colorinput input[type="text"]{
+	float: left;
+}
+
+.colorchoose{
+	float:left;
+	width:16px;
+	height:16px;
+	margin:2px 4px 0 2px;
+	border:2px solid #fff;
+	background-color:#ddd;
+	cursor:pointer;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	-moz-box-shadow:0px 0px 2px #333;
+	-webkit-box-shadow:0px 0px 2px #333;
+	box-shadow:0px 0px 2px #333;
+}
+
+.savebutton{
+	position: relative;
+	margin: 10px 0;
+}
+
+.saving{
+	opacity: 0;
+}
+
+.imageradio{
+	display: inline-block;
+	margin: 0 10px 10px 0;
+}
+
+.imageradio label{
+	cursor:auto;
+}
+
+.imageradio label img{
+	cursor:pointer;
+}
+
+.imageradio label span{
+	display:block;
+	margin:5px 0 0 25px;
+	font-size:10px;
+	text-align:center;
+}
+
+.imageradio input{
+	margin:0 10px 0 0;
+}
+
+.imageradio img{
+	vertical-align:middle;
+}
+
+.patternselect .showpattern{
+	display:inline-block;
+	width:280px;
+	height:100px;
+	margin-left:15px;
+	vertical-align:middle;
+	background-color:#999;
+	background-position:center;
+}
+
+.patternselect .showpattern span{
+	display:block;
+	width:inherit;
+	height:inherit;
+}
+
+.form-table .option-description{
+	color: #666;
+	font-size: 11px;
+	line-height: 1.2em;
+}
+
+/* Control Buttons */
+
+.controls-wrap{
+	position: relative;
+	height: 25px;
+}
+
+.controls-wrap.lower{
+	margin-top: 20px;
+}
+
+.controls-wrap table{
+	position: absolute;
+	right: 0;
+}
+
+/* Slider */
+
+ul#blakzr_slider{
+	width:100%;
+	margin:0;
+}
+
+#blakzr_slider .homeslide{
+	background-color: #f3f3f3;
+	border: 1px solid #d7d7d7;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	-moz-box-shadow: inset 0 1px 0 white;
+	-webkit-box-shadow: inset 0 1px 0 white;
+	box-shadow: inset 0 1px 0 white;
+	cursor: move;
+	margin-bottom: 20px;
+	overflow: hidden;
+	padding: 15px;
+	position: relative;
+	width: 768px;
+	height: 240px;
+}
+
+#blakzr_slider .homeslide input{
+	background-color:#fff;
+	width:500px;
+}
+
+#blakzr_slider .homeslide textarea{
+	background-color:#fff;
+	width:100%;
+	max-width:100%;
+	min-width:100%;
+	min-height:45px;
+	height:45px;
+}
+
+#blakzr_slider label{
+	display:block;
+	margin:0;
+	width:85px;
+}
+
+.homeslide .remove{
+	position:absolute;
+	right:15px;
+	top:15px;
+}
+
+.slide_placeholder{
+	width: 768px;
+	height: 240px;
+	background-color: #fafafa;
+	border: 1px dashed #ccc;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	margin-bottom: 20px;
+	padding: 15px;
+}
+
+/* Slider Slide Content */
+
+.slide-image {
+	background-color: #fff;
+	background-position: center;
+	background-size: 100%;
+	border: 1px solid #ddd;
+	cursor: pointer;
+	float: left;
+	position: relative;
+	width: 400px;
+	height: 240px;
+}
+
+.slide-image span {
+	color: #ccc;
+	display: block;
+	line-height: 24px;
+	margin-top: -12px;
+	position: absolute;
+		top: 50%;
+	text-align: center;
+	width: inherit;
+	height: 24px;
+}
+
+.slide-image span:nth-child(2),
+.slide-image.over-image span:nth-child(1) {
+	display: none;
+}
+
+.slide-image.over-image span:nth-child(2) {
+	display: block;
+}
+
+.slide-image:hover span {
+	color: #999;
+}
+
+.slide-image.over-image span {
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
+
+.slide-options {
+	padding-top: 20px;
+	margin-left: 417px;
+}
+
+.slide-options label {
+	font-weight: bold;
+}
+
+.slide-options input[type="text"] {
+	width: 351px !important;
+}
+
+/* Category Slider */
+#cat-sortable li {
+	background-color: #fff;
+	background: #f9f9f9;
+	background: -moz-linear-gradient(top, #f9f9f9 0%, #ececec 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f9f9f9), color-stop(100%,#ececec));
+	background: -webkit-linear-gradient(top, #f9f9f9 0%,#ececec 100%);
+	background: -o-linear-gradient(top, #f9f9f9 0%,#ececec 100%);
+	background: -ms-linear-gradient(top, #f9f9f9 0%,#ececec 100%);
+	background: linear-gradient(to bottom, #f9f9f9 0%,#ececec 100%);
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	box-shadow: inset 0 1px 0 #fff;
+	color: #ccc;
+	cursor: move;
+	display: block;
+	height: 35px;
+	line-height: 35px;
+	padding: 0 1em;
+	-webkit-transition: color 0.5s ease-out;
+	-moz-transition: color 0.5s ease-out;
+	-o-transition: color 0.5s ease-out;
+	transition: color 0.5s ease-out;        
+}
+
+#cat-sortable .placeholder {
+	background: #fff !important;
+	border: 1px dashed #ccc;
+	height: 35px;
+}
+
+#cat-sortable + .appendoButtons {
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+

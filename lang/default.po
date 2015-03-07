@@ -1,0 +1,937 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: American Journal\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-18 17:18-0500\n"
+"PO-Revision-Date: 2013-03-18 17:18-0500\n"
+"Last-Translator: Harold Coronado <harold@blakzr.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:13
+msgid "Page not found"
+msgstr ""
+
+#: ../404.php:25
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../404.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr ""
+
+#: ../404.php:35
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:43
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../archive.php:17
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../archive.php:24
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../archive.php:32
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:35
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:38
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:41
+#: ../index.php:18
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:75
+#: ../category.php:179
+#: ../index.php:49
+#: ../search.php:45
+msgid "Nothing Found"
+msgstr ""
+
+#: ../archive.php:78
+#: ../category.php:182
+#: ../index.php:52
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: ../category.php:15
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../category.php:61
+#: ../category.php:118
+#: ../post.php:18
+msgid "Gallery"
+msgstr ""
+
+#: ../category.php:76
+#: ../functions.php:112
+#: ../post.php:35
+msgid "By"
+msgstr ""
+
+#: ../category.php:78
+#: ../category.php:97
+#: ../post.php:37
+msgid " ago"
+msgstr ""
+
+#: ../category.php:80
+#: ../post.php:42
+msgid "Read more"
+msgstr ""
+
+#: ../category.php:115
+#: ../post.php:15
+msgid "Video"
+msgstr ""
+
+#: ../category.php:143
+#, php-format
+msgid "More '%s' news"
+msgstr ""
+
+#: ../comments.php:20
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:36
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:43
+#: ../comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:44
+#: ../comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:79
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:79
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:79
+msgid "Cancel reply"
+msgstr ""
+
+#: ../comments.php:82
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:90
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:91
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:93
+#: ../comments.php:110
+msgid "Your Comment*"
+msgstr ""
+
+#: ../comments.php:96
+#: ../comments.php:112
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:101
+#, php-format
+msgid "Your email address will not be published. Required fields are marked %1$s*%2$s"
+msgstr ""
+
+#: ../comments.php:104
+msgid "Name*"
+msgstr ""
+
+#: ../comments.php:105
+msgid "E-mail*"
+msgstr ""
+
+#: ../comments.php:106
+msgid "Website"
+msgstr ""
+
+#: ../content-gallery.php:21
+#: ../content-video.php:21
+#: ../content.php:21
+#: ../post.php:39
+msgid "No comments"
+msgstr ""
+
+#: ../content-gallery.php:21
+#: ../content-video.php:21
+#: ../content.php:21
+#: ../post.php:39
+msgid "1 comment"
+msgstr ""
+
+#: ../content-gallery.php:21
+#: ../content-video.php:21
+#: ../content.php:21
+#: ../post.php:39
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../content-gallery.php:89
+#: ../content-video.php:55
+#: ../content.php:37
+msgid "Read more &rarr;"
+msgstr ""
+
+#: ../content-gallery.php:93
+#: ../content-video.php:59
+#: ../content.php:41
+#: ../page.php:40
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-gallery.php:94
+#: ../content-video.php:60
+#: ../content.php:42
+#: ../page.php:41
+msgid "Pages:"
+msgstr ""
+
+#: ../content-gallery.php:95
+#: ../content-video.php:61
+#: ../content.php:43
+msgid "Edit this post"
+msgstr ""
+
+#: ../content-gallery.php:108
+#: ../content-video.php:74
+#: ../content.php:56
+msgid "Share:"
+msgstr ""
+
+#: ../footer.php:17
+#: ../sidebar.php:14
+#: ../sidebar.php:24
+msgid "Sample Widget"
+msgstr ""
+
+#: ../footer.php:18
+#: ../sidebar.php:15
+#: ../sidebar.php:25
+msgid "This is not a real widget, just a placeholder. You can put any other available widgets in this area. Try it, what are you waiting for?"
+msgstr ""
+
+#: ../footer.php:43
+#: ../header.php:107
+msgid "Homepage"
+msgstr ""
+
+#: ../functions.php:24
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../functions.php:25
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../functions.php:58
+msgid "Tagged in: "
+msgstr ""
+
+#: ../functions.php:92
+msgid "Related Articles"
+msgstr ""
+
+#: ../functions.php:158
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:158
+#: ../functions.php:181
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:169
+msgid "Author"
+msgstr ""
+
+#: ../functions.php:169
+msgid "on"
+msgstr ""
+
+#: ../functions.php:174
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:178
+msgid "&rarr; Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:182
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:200
+msgid "Video Format"
+msgstr ""
+
+#: ../functions.php:214
+msgid "Insert Video URL"
+msgstr ""
+
+#: ../functions.php:222
+msgid "YouTube:"
+msgstr ""
+
+#: ../functions.php:233
+msgid "Vimeo:"
+msgstr ""
+
+#: ../functions.php:244
+msgid "Self-hosted:"
+msgstr ""
+
+#: ../functions.php:421
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../functions.php:422
+msgid "Header Top Navigation"
+msgstr ""
+
+#: ../header.php:34
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../header.php:110
+msgid "l, F d, Y"
+msgstr ""
+
+#: ../header.php:131
+msgid "Navigation"
+msgstr ""
+
+#: ../header.php:136
+msgid "Home"
+msgstr ""
+
+#: ../header.php:142
+msgid "Search"
+msgstr ""
+
+#: ../page.php:42
+msgid "Edit this page"
+msgstr ""
+
+#: ../search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:48
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: ../template-contact.php:46
+msgid "Message from "
+msgstr ""
+
+#: ../template-contact.php:48
+msgid "Name:"
+msgstr ""
+
+#: ../template-contact.php:49
+msgid "E-mail:"
+msgstr ""
+
+#: ../template-contact.php:50
+msgid "Message:"
+msgstr ""
+
+#: ../template-contact.php:58
+msgid "Your request has been sent."
+msgstr ""
+
+#: ../template-contact.php:64
+#: ../template-contact.php:72
+msgid "This field is required."
+msgstr ""
+
+#: ../template-contact.php:68
+msgid "Provide a valid e-mail address."
+msgstr ""
+
+#: ../template-contact.php:71
+msgid "Your comment"
+msgstr ""
+
+#: ../template-contact.php:74
+msgid "Send"
+msgstr ""
+
+#: ../template-home.php:125
+msgid "Recent News"
+msgstr ""
+
+#: ../template-home.php:131
+msgid "Topics"
+msgstr ""
+
+#: ../functions/panel.php:16
+msgid "General"
+msgstr ""
+
+#: ../functions/panel.php:17
+msgid "Layout"
+msgstr ""
+
+#: ../functions/panel.php:19
+#: ../functions/widgets.php:480
+msgid "Social Links"
+msgstr ""
+
+#: ../functions/panel.php:20
+#: ../functions/widgets.php:31
+msgid "Footer"
+msgstr ""
+
+#: ../functions/panel.php:27
+msgid "Custom RSS"
+msgstr ""
+
+#: ../functions/panel.php:28
+msgid "Paste your custom RSS feed URL (example: a FeedBurner URL)."
+msgstr ""
+
+#: ../functions/panel.php:36
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../functions/panel.php:37
+msgid "If you want to display an icon for your site (known as Favicon), paste the icon URL here or upload one."
+msgstr ""
+
+#: ../functions/panel.php:45
+msgid "Tracking Code"
+msgstr ""
+
+#: ../functions/panel.php:46
+msgid "Paste here any tracking code for your site. This code will be used in every page. For example, if you use Google Analytics and you want to track your visitors, paste your Analytics code here."
+msgstr ""
+
+#: ../functions/panel.php:53
+msgid "Destination Email"
+msgstr ""
+
+#: ../functions/panel.php:54
+msgid "Enter your email address to receive the messages sent by your users through the Contact Page template."
+msgstr ""
+
+#: ../functions/panel.php:55
+msgid "Enter email address"
+msgstr ""
+
+#: ../functions/panel.php:63
+msgid "Site Logo"
+msgstr ""
+
+#: ../functions/panel.php:64
+msgid "The default logo is text-based. It uses the Site Title (change it going to <a href=\"options-general.php\">Settings > General</a>). If you want to use an image, paste the URL or upload one here."
+msgstr ""
+
+#: ../functions/panel.php:72
+msgid "Logo Width"
+msgstr ""
+
+#: ../functions/panel.php:73
+msgid "Check this option if you want the logo to have the full width site header. This will only work if you use an image."
+msgstr ""
+
+#: ../functions/panel.php:74
+msgid "Display Full Width Logo"
+msgstr ""
+
+#: ../functions/panel.php:81
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../functions/panel.php:82
+msgid "Choose the position for the sidebar."
+msgstr ""
+
+#: ../functions/panel.php:87
+msgid "Right"
+msgstr ""
+
+#: ../functions/panel.php:91
+msgid "Left"
+msgstr ""
+
+#: ../functions/panel.php:99
+msgid "Color"
+msgstr ""
+
+#: ../functions/panel.php:100
+msgid "This color used in some elements throughout the site (like the navigation links). You can choose any color you like."
+msgstr ""
+
+#: ../functions/panel.php:101
+msgid "Pick a color"
+msgstr ""
+
+#: ../functions/panel.php:113
+msgid "Category Quantity"
+msgstr ""
+
+#: ../functions/panel.php:114
+msgid "Select how many categories you want to display in the Home (template)."
+msgstr ""
+
+#: ../functions/panel.php:115
+msgid "Categories"
+msgstr ""
+
+#: ../functions/panel.php:118
+msgid "2"
+msgstr ""
+
+#: ../functions/panel.php:119
+msgid "4"
+msgstr ""
+
+#: ../functions/panel.php:120
+msgid "6"
+msgstr ""
+
+#: ../functions/panel.php:121
+msgid "8"
+msgstr ""
+
+#: ../functions/panel.php:122
+msgid "10"
+msgstr ""
+
+#: ../functions/panel.php:123
+msgid "12"
+msgstr ""
+
+#: ../functions/panel.php:124
+msgid "14"
+msgstr ""
+
+#: ../functions/panel.php:125
+msgid "16"
+msgstr ""
+
+#: ../functions/panel.php:126
+msgid "18"
+msgstr ""
+
+#: ../functions/panel.php:127
+msgid "20"
+msgstr ""
+
+#: ../functions/panel.php:128
+msgid "22"
+msgstr ""
+
+#: ../functions/panel.php:129
+msgid "24"
+msgstr ""
+
+#: ../functions/panel.php:130
+msgid "Display all"
+msgstr ""
+
+#: ../functions/panel.php:137
+msgid "Category Order"
+msgstr ""
+
+#: ../functions/panel.php:138
+msgid "Rearrange the categories as you like to display in the Home (template) of the site."
+msgstr ""
+
+#: ../functions/panel.php:145
+msgid "Facebook"
+msgstr ""
+
+#: ../functions/panel.php:146
+msgid "Paste your Facebook profile or page URL."
+msgstr ""
+
+#: ../functions/panel.php:154
+msgid "Twitter"
+msgstr ""
+
+#: ../functions/panel.php:155
+msgid "Enter your Twitter username. Example: @twitter."
+msgstr ""
+
+#: ../functions/panel.php:163
+msgid "Google+"
+msgstr ""
+
+#: ../functions/panel.php:164
+msgid "Paste your Google+ profile URL."
+msgstr ""
+
+#: ../functions/panel.php:172
+msgid "Flickr"
+msgstr ""
+
+#: ../functions/panel.php:173
+msgid "Paste your Flickr photostream URL."
+msgstr ""
+
+#: ../functions/panel.php:181
+msgid "Instagram"
+msgstr ""
+
+#: ../functions/panel.php:182
+msgid "Enter your Instagram username."
+msgstr ""
+
+#: ../functions/panel.php:190
+msgid "LinkedIn"
+msgstr ""
+
+#: ../functions/panel.php:191
+msgid "Paste your LinkedIn profile URL."
+msgstr ""
+
+#: ../functions/panel.php:199
+msgid "Tumblr"
+msgstr ""
+
+#: ../functions/panel.php:200
+msgid "Enter your Tumblr URL."
+msgstr ""
+
+#: ../functions/panel.php:208
+msgid "Dribbble"
+msgstr ""
+
+#: ../functions/panel.php:209
+msgid "Enter your Dribbble username."
+msgstr ""
+
+#: ../functions/panel.php:217
+msgid "Vimeo"
+msgstr ""
+
+#: ../functions/panel.php:218
+msgid "Enter your Vimeo username."
+msgstr ""
+
+#: ../functions/panel.php:226
+msgid "Pinterest"
+msgstr ""
+
+#: ../functions/panel.php:227
+msgid "Enter your Pinterest username."
+msgstr ""
+
+#: ../functions/panel.php:235
+msgid "YouTube"
+msgstr ""
+
+#: ../functions/panel.php:236
+msgid "Enter your YouTube username."
+msgstr ""
+
+#: ../functions/panel.php:244
+msgid "Skype"
+msgstr ""
+
+#: ../functions/panel.php:245
+msgid "Enter your Skype username."
+msgstr ""
+
+#: ../functions/panel.php:253
+msgid "RSS button"
+msgstr ""
+
+#: ../functions/panel.php:254
+msgid "Check this option if you want to display a RSS button along the Social Networks."
+msgstr ""
+
+#: ../functions/panel.php:255
+msgid "Display RSS button"
+msgstr ""
+
+#: ../functions/panel.php:262
+msgid "Footer Sidebar"
+msgstr ""
+
+#: ../functions/panel.php:263
+msgid "Check this option if you want to display a sidebar in the footer."
+msgstr ""
+
+#: ../functions/panel.php:264
+msgid "Display Sidebar"
+msgstr ""
+
+#: ../functions/panel.php:271
+msgid "Disclaimer"
+msgstr ""
+
+#: ../functions/panel.php:272
+msgid "Paragraph to be displayed in the footer."
+msgstr ""
+
+#: ../functions/panel.php:281
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../functions/panel.php:282
+msgid "Check this option if you want to display the Top Header navigation menu under the site name."
+msgstr ""
+
+#: ../functions/panel.php:283
+msgid "Display Navigation"
+msgstr ""
+
+#: ../functions/panel.php:331
+#: ../functions/panel.php:339
+#: ../functions/panel.php:356
+msgid "Theme Options"
+msgstr ""
+
+#: ../functions/panel.php:367
+msgid "Settings saved"
+msgstr ""
+
+#: ../functions/panel.php:378
+#: ../functions/panel.php:661
+msgid "Save Changes"
+msgstr ""
+
+#: ../functions/panel.php:497
+msgid "Upload"
+msgstr ""
+
+#: ../functions/panel.php:653
+msgid "Reset Settings"
+msgstr ""
+
+#: ../functions/shortcodes.php:255
+msgid "Tab"
+msgstr ""
+
+#: ../functions/shortcodes.php:276
+msgid "Section"
+msgstr ""
+
+#: ../functions/widgets.php:11
+msgid "First Sidebar"
+msgstr ""
+
+#: ../functions/widgets.php:13
+msgid "Main sidebar Widget area. First column."
+msgstr ""
+
+#: ../functions/widgets.php:21
+msgid "Second Sidebar"
+msgstr ""
+
+#: ../functions/widgets.php:23
+msgid "Main sidebar Widget area. Second column."
+msgstr ""
+
+#: ../functions/widgets.php:33
+msgid "Widget area for the Footer"
+msgstr ""
+
+#: ../functions/widgets.php:48
+msgid "Show your Twitter stream"
+msgstr ""
+
+#: ../functions/widgets.php:54
+msgid "Latest Tweets"
+msgstr ""
+
+#: ../functions/widgets.php:87
+msgid "Tweets can't be loaded"
+msgstr ""
+
+#: ../functions/widgets.php:141
+#: ../functions/widgets.php:295
+#: ../functions/widgets.php:353
+#: ../functions/widgets.php:420
+#: ../functions/widgets.php:530
+#: ../functions/widgets.php:641
+#: ../functions/widgets.php:788
+#: ../functions/widgets.php:879
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widgets.php:145
+msgid "Username"
+msgstr ""
+
+#: ../functions/widgets.php:149
+msgid "Number of tweets to show"
+msgstr ""
+
+#: ../functions/widgets.php:154
+msgid "Show retweets"
+msgstr ""
+
+#: ../functions/widgets.php:168
+msgid "Show your latest photos from Flickr"
+msgstr ""
+
+#: ../functions/widgets.php:169
+msgid "Flickr Photos"
+msgstr ""
+
+#: ../functions/widgets.php:174
+msgid "Flickr Photostream"
+msgstr ""
+
+#: ../functions/widgets.php:299
+msgid "Your Flickr User ID"
+msgstr ""
+
+#: ../functions/widgets.php:303
+msgid "Number of photos to show"
+msgstr ""
+
+#: ../functions/widgets.php:318
+msgid "Display a YouTube or Vimeo video"
+msgstr ""
+
+#: ../functions/widgets.php:324
+msgid "Featured Video"
+msgstr ""
+
+#: ../functions/widgets.php:361
+msgid "URL:"
+msgstr ""
+
+#: ../functions/widgets.php:376
+msgid "Display a map from Google Maps"
+msgstr ""
+
+#: ../functions/widgets.php:377
+#: ../functions/widgets.php:382
+msgid "Map"
+msgstr ""
+
+#: ../functions/widgets.php:424
+msgid "Latitude:"
+msgstr ""
+
+#: ../functions/widgets.php:428
+msgid "Longitude:"
+msgstr ""
+
+#: ../functions/widgets.php:432
+msgid "Map Type:"
+msgstr ""
+
+#: ../functions/widgets.php:448
+msgid "Zoom:"
+msgstr ""
+
+#: ../functions/widgets.php:462
+msgid "Map Height:"
+msgstr ""
+
+#: ../functions/widgets.php:479
+msgid "Display your social networks. Set them on the 'Social Links' tab in the Theme Options page"
+msgstr ""
+
+#: ../functions/widgets.php:485
+msgid "Follow us on"
+msgstr ""
+
+#: ../functions/widgets.php:508
+#: ../functions/widgets.php:510
+msgid "RSS"
+msgstr ""
+
+#: ../functions/widgets.php:534
+msgid "Description:"
+msgstr ""
+
+#: ../functions/widgets.php:550
+msgid "Display the latest post that features a video (video format)"
+msgstr ""
+
+#: ../functions/widgets.php:551
+#: ../functions/widgets.php:556
+msgid "Latest Video"
+msgstr ""
+
+#: ../functions/widgets.php:646
+msgid "Show Title"
+msgstr ""
+
+#: ../functions/widgets.php:650
+#: ../functions/widgets.php:884
+msgid "Show Excerpt"
+msgstr ""
+
+#: ../functions/widgets.php:665
+msgid "Show the latest post that feature an image or gallery (based on post formats)"
+msgstr ""
+
+#: ../functions/widgets.php:666
+#: ../functions/widgets.php:671
+msgid "Post Gallery"
+msgstr ""
+
+#: ../functions/widgets.php:792
+msgid "Number of posts to show"
+msgstr ""
+
+#: ../functions/widgets.php:809
+msgid "Show a list of columnists ('Author' user role) and their latest post"
+msgstr ""
+
+#: ../functions/widgets.php:810
+#: ../functions/widgets.php:815
+msgid "Columnists"
+msgstr ""
+

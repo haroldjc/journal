@@ -1,0 +1,37 @@
+/**
+ *
+ * Blakzr Framework
+ * Admin Style
+ *
+ */
+
+/* ---------- Format Meta Boxes ---------- */
+
+.post-meta-boxes td{
+	padding: 10px;
+}
+
+.post-meta-boxes label{
+	display: block;
+}
+
+.post-meta-boxes .meta-description{
+	vertical-align: top;
+}
+
+.post-meta-boxes input[type="text"],
+.post-meta-boxes textarea{
+	width: 100%;
+}
+
+.post-meta-boxes input[type="text"]:disabled{
+	background-color: #eee;
+}
+
+#format-link-meta,
+#format-quote-meta,
+#format-video-meta,
+#media-video-meta,
+#media_video_img{
+	display: none;
+}
