@@ -5,8 +5,8 @@
  * Displays all of the <head> section and everything up till </header>
  *
  * @package WordPress
- * @subpackage AmericanJournal
- * @since AmericanJournal 1.0
+ * @subpackage Journal
+ * @since Journal 1.0
  */
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?>>

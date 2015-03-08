@@ -4,8 +4,8 @@
  *
  * Learn more: http://codex.wordpress.org/Template_Hierarchy
  *
- * @package AmericanJournal
- * @since AmericanJournal 1.0
+ * @package Journal
+ * @since Journal 1.0
  */
 
 get_header(); ?><div class="main">

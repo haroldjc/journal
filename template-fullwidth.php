@@ -3,8 +3,8 @@
  * Template Name: Full Width
  *
  * @package WordPress
- * @subpackage AmericanJournal
- * @since AmericanJournal 1.0
+ * @subpackage Journal
+ * @since Journal 1.0
  */
 
 get_header(); ?><div class="main">

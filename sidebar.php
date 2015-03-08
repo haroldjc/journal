@@ -3,8 +3,8 @@
  * The Sidebar containing the main widget area.
  *
  * @package WordPress
- * @subpackage AmericanJournal
- * @since AmericanJournal 1.0
+ * @subpackage Journal
+ * @since Journal 1.0
  */
 ?>
 <div class="col-1-6 first-sidebar">

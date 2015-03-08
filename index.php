@@ -9,7 +9,7 @@
  * Learn more: http://codex.wordpress.org/Template_Hierarchy
  *
  * @package WordPress
- * @subpackage AmericanJournal
+ * @subpackage Journal
  */
 
 get_header(); ?><div class="main">

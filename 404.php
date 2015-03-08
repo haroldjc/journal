@@ -3,8 +3,8 @@
  * The template for displaying 404 pages (Not Found).
  *
  * @package WordPress
- * @subpackage AmericanJournal
- * @since AmericanJournal 1.0
+ * @subpackage journal
+ * @since journal 1.0
  */
 
 get_header(); ?><div class="main">

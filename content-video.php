@@ -3,8 +3,8 @@
  * The default template for displaying content for the Video post format
  *
  * @package WordPress
- * @subpackage AmericanJournal
- * @since AmericanJournal 1.0
+ * @subpackage Journal
+ * @since Journal 1.0
  */
 ?><article id="post-<?php the_ID(); ?>" <?php post_class('group'); ?>>
 		<?php if ( is_single() ) : ?>

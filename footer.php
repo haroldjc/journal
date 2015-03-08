@@ -5,8 +5,8 @@
  * Contains the closing of the id=main div and all content after
  *
  * @package WordPress
- * @subpackage AmericanJournal
- * @since AmericanJournal 1.0
+ * @subpackage Journal
+ * @since Journal 1.0
  */
 ?>
 		<?php if ( 'true' == get_option( 'blakzr_display_footer_sidebar', 'true' ) ) : ?>

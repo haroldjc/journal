@@ -8,8 +8,8 @@
  * located in the functions.php file.
  *
  * @package WordPress
- * @subpackage Slide
- * @since Slide 1.0
+ * @subpackage Journal
+ * @since Journal 1.0
  */
 
 if ( comments_open() ) :

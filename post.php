@@ -3,8 +3,8 @@
  * The default template for displaying content in archive pages
  *
  * @package WordPress
- * @subpackage AmericanJournal
- * @since AmericanJournal 1.0
+ * @subpackage Journal
+ * @since Journal 1.0
  */
 ?><div <?php post_class('entry small-post grid'); ?>>
 	<div class="col-1-4">
